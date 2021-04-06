@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #CBCBCB;
+}
+.banner-column{
+    background-color: #838383;
+    text-align: center;
+}
+.navbar-container{
+    background-color: #102040;
+}
+.about-container{
+    background-color: #01BAB4;
+}
+.education-container{
+    background-color:  #CBCBCB;
+}
+.redtype{
+    color: #FF917E;
+}
