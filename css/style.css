@@ -20,3 +20,9 @@ body{
 .redtype{
     color: #FF917E;
 }
+.circle{
+    background-color: #FF917E;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
