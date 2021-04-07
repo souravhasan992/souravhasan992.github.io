@@ -10,6 +10,9 @@ body{
 }
 .navbar-container{
     background-color: #102040;
+    top: 0;
+    position: sticky;
+    z-index: 1;
 }
 .about-container{
     background-color: #01BAB4;
@@ -28,4 +31,10 @@ body{
 }
 .project-container{
     background-color: #01BAB4;
+}
+.portfolio-container{
+    background-color: #CBCBCB;
+}
+.contact-container{
+    background-color: #474D5F;
 }
